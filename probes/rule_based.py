@@ -1,0 +1,1 @@
+from watt_the_hack.controllers.rule_based import rule_based_controller as controller
